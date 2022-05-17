@@ -1,4 +1,4 @@
-# Basic of Arduino IDE
+# Functions on Arduino IDE
 
 <br>
 
